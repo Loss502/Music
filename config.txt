@@ -1,6 +1,6 @@
 token=NTI1NzQ1OTkwMjM0NDA2OTIy.DwUelg.vuyanWFG7VNkhOpjeuLANF3BtB4
-owner= 5133781788620226866 
-prefix= $
-game= FM
-stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
-songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
+owner=5133781788620226866 
+prefix=$
+game=FM
+stayinchannel=true
+songinstatus=false
