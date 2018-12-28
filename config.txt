@@ -1,5 +1,5 @@
 token=NTI1NzQ1OTkwMjM0NDA2OTIy.DwZckw.0E3N40BypNYNqxBAu1aD7ZDNylE
-owner=5133781788620226866 
+owner=513378178862022686 
 prefix=$
 game=FM
 stayinchannel=true
