@@ -1,6 +1,6 @@
 token=NTI1NzQ1OTkwMjM0NDA2OTIy.DwZckw.0E3N40BypNYNqxBAu1aD7ZDNylE
 owner=494164834049327125
-prefix=$
+prefix=B
 game=FM
 stayinchannel=true
 songinstatus=false
